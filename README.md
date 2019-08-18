@@ -1,1 +1,1 @@
-# MedicineReminder2
+# MedicineReminder
